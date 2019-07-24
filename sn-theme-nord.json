@@ -1,0 +1,19 @@
+{
+  "identifier": "dev.cldn.sn-nord-dracula",
+  "name": "Nord",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "0.0.1",
+  "description": "A Nord inspired theme for Standard Notes",
+  "url": "http://localhost:8001/dist/dist.css",
+  "latest_url": "http://localhost:8001/sn-theme-nord.json",
+  "marketing_url": "https://github.com/cameronldn/sn-theme-nord",
+  "thumbnail_url": "https://github.com/cameronldn/sn-theme-nord/master/preview.png",
+  "dock_icon": {
+      "type": "circle",
+      "background_color": "#8be9fd",
+      "foreground_color": "#8be9fd",
+      "border_color": "#8be9fd"
+    },
+    "statusBar": "dark-content"
+}
